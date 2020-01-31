@@ -5,7 +5,7 @@ void main()
 {
 	int a,b,c,d;
 	clrscr();
-	printf("\nACCEPT VALUE FOR a,b,c:\n");
+	printf("\n\nACCEPT VALUE FOR a,b,c:\n");
 	scanf("%d %d %d",&a,&b,&c);
 	d=sum(a,b,c);
 	printf("\nSUM OF %d,%d and %d IS %d",a,b,c,d);
